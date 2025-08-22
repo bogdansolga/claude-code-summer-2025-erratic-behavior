@@ -2,7 +2,7 @@
 
 ## Why This Repository Exists
 
-In the second half of July and the first half of August 2025, Claude Code has progressively worsened in behavior, as reported by numerous users in the Claude Code GitHub repository. The reported issues include:
+In the second half of July and the first half of August 2025, Claude Code has progressively worsened in behavior, as reported by numerous users in the [Claude Code GitHub repository](https://github.com/anthropics/claude-code). The reported issues include:
 
 - Blatantly ignoring both the instructions from the CLAUDE.md file and the requirements from prompts
 - Inventing technical details
